@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 935c5275-9c02-f567-2fba-1816615fbda8
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 3a8ead41-6279-673a-39d1-9243e3aafeeb
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 91649e19-7aad-bdfb-b6d0-83162241b8a2
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 30
+- identifier: 38ce298c-d4ff-138c-ef19-420694dfce4e
+  name: Handouts
+  pageRef: /pages/handouts
+  weight: 40
+- identifier: d5518a30-1a13-7429-bd3e-9d012cfee347
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 50
+- identifier: bb957647-fc21-81ca-ab42-204c4d647ca0
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 60
